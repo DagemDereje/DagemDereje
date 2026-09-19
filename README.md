@@ -1,14 +1,7 @@
 # Hi there, I'm Dagem Dereje 👋
 ### Data Scientist | Building machine learning systems that solve real problems.
 
-<p align="left">
-  <a href="https://dagem-portfolio.vercel.app/" target="_blank">
-    <img src="https://shields.io" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/dagem-dereje-810b60325/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Badge"/>
-  </a>
-</p>
+[![Portfolio](https://shields.io)](https://dagem-portfolio.vercel.app/) [![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
 
@@ -21,10 +14,10 @@ I design, train, and ship machine learning and data systems—from forecasting m
 ---
 
 ### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Dagem's GitHub Stats" height="180px"/>
-  <img src="https://vercel.app" alt="Top Languages" height="180px"/>
-</p>
+
+![Dagem's GitHub Stats](https://vercel.app)
+
+![Top Languages](https://vercel.app)
 
 ---
 
@@ -49,4 +42,5 @@ I design, train, and ship machine learning and data systems—from forecasting m
 
 ### 📬 Let's Connect!
 * 🌐 **Portfolio:** [dagem-portfolio.vercel.app](https://dagem-portfolio.vercel.app/)
-* 💼 **LinkedIn:** [dagem-dereje-810b60325](https://www.linkedin.com/in/dagem-dereje-810b60325/)
+* 💼 **LinkedIn:** [dagem-dereje-810b60325]([https://linkedin.com](https://www.linkedin.com/in/dagem-dereje-810b60325/))
+
