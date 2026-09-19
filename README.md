@@ -5,18 +5,17 @@
   <a href="https://dagem-portfolio.vercel.app/" target="_blank">
     <img src="https://shields.io" alt="Portfolio Badge"/>
   </a>
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/dagem-dereje-810b60325/" target="_blank">
     <img src="https://shields.io" alt="LinkedIn Badge"/>
   </a>
 </p>
-
 
 ---
 
 ### 🚀 About Me
 I design, train, and ship machine learning and data systems—from forecasting models to fraud detection to document AI.
 
-* 🌍 Portfolio: **[dagem-portfolio.vercel.app](https://vercel.app)**
+* 🌍 Portfolio: **[dagem-portfolio.vercel.app](https://dagem-portfolio.vercel.app/)**
 * 🧠 Specialization: ML pipelines, Predictive Analytics, Risk Prediction, and Document AI.
 
 ---
@@ -49,5 +48,5 @@ I design, train, and ship machine learning and data systems—from forecasting m
 ---
 
 ### 📬 Let's Connect!
-* 🌐 **Portfolio:** [dagem-portfolio.vercel.app](https://vercel.app)
-* 💼 **LinkedIn:** [dagem-dereje-810b60325](https://linkedin.com)
+* 🌐 **Portfolio:** [dagem-portfolio.vercel.app](https://dagem-portfolio.vercel.app/)
+* 💼 **LinkedIn:** [dagem-dereje-810b60325](https://www.linkedin.com/in/dagem-dereje-810b60325/)
