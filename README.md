@@ -15,9 +15,15 @@ I design, train, and ship machine learning and data systems—from forecasting m
 
 ### 📊 My GitHub Stats
 
-![Dagem's GitHub Stats](https://vercel.app)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
+  <img alt="Dagem's GitHub Stats" src="https://vercel.app">
+</picture>
 
-![Top Languages](https://vercel.app)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
+  <img alt="Top Languages" src="https://vercel.app">
+</picture>
 
 ---
 
@@ -42,5 +48,4 @@ I design, train, and ship machine learning and data systems—from forecasting m
 
 ### 📬 Let's Connect!
 * 🌐 **Portfolio:** [dagem-portfolio.vercel.app](https://dagem-portfolio.vercel.app/)
-* 💼 **LinkedIn:** [dagem-dereje-810b60325]([https://linkedin.com](https://www.linkedin.com/in/dagem-dereje-810b60325/))
-
+* 💼 **LinkedIn:** [dagem-dereje-810b60325](https://linkedin.com)
