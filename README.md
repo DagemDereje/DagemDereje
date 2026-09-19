@@ -2,9 +2,14 @@
 ### Data Scientist | Building machine learning systems that solve real problems.
 
 <p align="left">
-  <a href="https://vercel.app"><img src="https://shields.io" alt="Portfolio Badge"/></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn Badge"/></a>
+  <a href="https://dagem-portfolio.vercel.app/" target="_blank">
+    <img src="https://shields.io" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Badge"/>
+  </a>
 </p>
+
 
 ---
 
