@@ -1,7 +1,8 @@
 # Hi there, I'm Dagem Dereje 👋
 ### Data Scientist | Building machine learning systems that solve real problems.
 
-[![Portfolio](https://shields.io)](https://dagem-portfolio.vercel.app/) [![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Portfolio](https://shields.io)](https://dagem-portfolio.vercel.app/) 
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
 
@@ -15,15 +16,9 @@ I design, train, and ship machine learning and data systems—from forecasting m
 
 ### 📊 My GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
-  <img alt="Dagem's GitHub Stats" src="https://vercel.app">
-</picture>
+![Dagem's GitHub Stats](https://vercel.app)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app">
-  <img alt="Top Languages" src="https://vercel.app">
-</picture>
+![Top Languages](https://vercel.app)
 
 ---
 
