@@ -43,4 +43,4 @@ I design, train, and ship machine learning and data systems—from forecasting m
 
 ### 📬 Let's Connect!
 * 🌐 **Portfolio:** [dagem-portfolio.vercel.app](https://dagem-portfolio.vercel.app/)
-* 💼 **LinkedIn:** [dagem-dereje-810b60325](https://linkedin.com)
+* 💼 **LinkedIn:** [dagem-dereje-810b60325](https://www.linkedin.com/in/dagem-dereje-810b60325/)
