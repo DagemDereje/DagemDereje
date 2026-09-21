@@ -29,9 +29,11 @@ I design, train, and ship machine learning and data systems—from forecasting m
 ---
 
 ### 📂 Featured Projects
-* **📄 Receipt Data Extractor:** Structured data extraction using a fine-tuned document-understanding model.
-* **💳 Fraud Monitoring & Drought Forecasting:** Real-time transaction fraud detection and meteorological drought prediction via XGBoost.
-* **👥 Customer & Health Analytics:** Customer segmentation using RFM/K-Means and 10-year heart disease risk prediction.
+- **📄 Receipt Data Extractor:** Structured data extraction (vendor, date, total, category) from photographed receipts using a fine-tuned LayoutLMv3 model.
+- **💳 Fraud Monitoring:** Real-time transaction fraud detection with XGBoost, featuring a live Streamlit dashboard and a FastAPI inference service sharing one scoring pipeline.
+- **🌦️ Drought Forecasting:** Predicts short-term drought severity (SPI-3) from meteorological station data using XGBoost.
+- **👥 Customer Intelligence:** Customer segmentation via RFM analysis and K-Means clustering, with automatically generated business insights.
+- **🫀 Heart Disease Risk Predictor:** Predicts 10-year coronary heart disease risk from clinical measurements using XGBoost, trained on the Framingham Heart Study.
 
 ---
 
